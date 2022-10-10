@@ -1,0 +1,44 @@
+body {
+  height:100%;
+  width:100%;
+  background-color: #ceb98e;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#head {
+background: url("../images/image.jpg");
+background-size: cover;
+height: 150px;
+background-color: #ceb98e;
+font-size: 30px;
+color: white;
+}
+
+#head p {
+	color:white;
+	text-align:right;
+  text-align: end;
+	font-size:em;
+  padding:2px 2px 0 0;
+}
+
+#random {
+	padding: 15px;
+} 
+
+#random h1{
+	padding-bottom:15px;
+}
+
+#random p{
+	padding-bottom:15px;
+}
+
+#random ul {
+	padding-bottom:15px;
+  padding-left: 20px;
+}
